@@ -658,7 +658,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 59ec3156-036e-4049-89db-91a9dd07095f)
     )
-    (fp_text value "2.2u" (at 0 4.1) (layer "F.Fab")
+    (fp_text value "10u" (at 0 4.1) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d39d813e-3e64-490c-ba5c-a64bb5ad6bd0)
     )
@@ -684,7 +684,7 @@
       (net 13 "Net-(C6-Pad2)") (pintype "passive") (tstamp 009a4fb4-fcc0-4623-ae5d-c1bae3219583))
     (pad "2" smd rect locked (at 2.05 0) (size 1.9 2.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "/Vout") (pintype "passive") (tstamp cf386a39-fc62-49dd-8ec5-e044f6bd67ce))
-    (model "${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Sunlord_MWSA0518.wrl"
+    (model "${KIPRJMOD}/Cads/User Library-mwsa0503.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
