@@ -1,4 +1,4 @@
-20117642751221388
+20122585119829973
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1546,6 +1546,13 @@ SPST Tactile Switch
 0
 4
 2
+Button_Switch_THT
+Interruttore_a_scorrimento
+
+
+0
+3
+3
 Button_Switch_THT
 KSA_Tactile_SPST
 KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
@@ -52346,6 +52353,13 @@ fuse handsolder
 2
 2
 Fuse
+Fuse_2016_HandSolder
+Fuse SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse handsolder
+0
+2
+2
+Fuse
 Fuse_2512_6332Metric
 Fuse SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse
@@ -85623,3 +85637,10 @@ QFN16_3mm_x_4mm
 0
 16
 16
+buck_foot_lib
+Solder_wire_PAD
+
+
+0
+2
+2
