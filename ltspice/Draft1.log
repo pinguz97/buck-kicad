@@ -1,0 +1,62 @@
+Circuit: * C:\Users\giovanni\Desktop\bldc_control\buck\ltspice\Draft1.asc
+
+WARNING: Node NC_02 is floating.
+
+WARNING: Less than two connections to node NC_02.  This node is used by C2.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 6.73999e-007
+vernier = 0.0625
+vernier = 0.0833333
+Gmin = 5.80388e-007
+vernier = 0.111111
+Gmin = 4.53423e-007
+vernier = 0.148148
+vernier = 0.197531
+Gmin = 3.0061e-007
+vernier = 0.263374
+vernier = 0.351165
+Gmin = 1.57356e-007
+vernier = 0.46822
+Gmin = 5.78433e-008
+vernier = 0.624294
+vernier = 0.832392
+Gmin = 1.13745e-008
+vernier = 1
+Gmin = 1.30752e-009
+Gmin = 1.40394e-010
+Gmin = 1.50747e-011
+Gmin = 1.61863e-012
+Gmin = 1.73799e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Tue Mar 08 17:00:25 2022
+Total elapsed time: 0.092 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2989
+traniter = 2134
+tranpoints = 1048
+accept = 1046
+rejected = 2
+matrix size = 26
+fillins = 11
+solver = Normal
+Matrix Compiler1: 2.43 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: 2.30 KB object code size  0.3/0.4/[0.2]
+
