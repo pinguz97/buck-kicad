@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\giovanni\Documents\Kicad_Projects\prova-buck\prova-buck.kicad_sch</source>
-    <date>19/03/2022 11:22:10</date>
-    <tool>Eeschema (6.0.2)</tool>
+    <source>/home/giovanni/Documents/Projects/Buck/buck-kicad/prova-buck.kicad_sch</source>
+    <date>sab 19 mar 2022, 14:28:19</date>
+    <tool>Eeschema 6.0.2-378541a8eb~116~ubuntu21.10.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -28,10 +28,12 @@
       <value>10u</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <fields>
+        <field name="LCSC Part">C13585</field>
         <field name="LCSC Part #">C13585</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C13585"/>
+      <property name="LCSC Part" value="C13585"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -41,10 +43,12 @@
       <value>10u</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <fields>
+        <field name="LCSC Part">C13585</field>
         <field name="LCSC Part #">C13585</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C13585"/>
+      <property name="LCSC Part" value="C13585"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,10 +58,12 @@
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C15849</field>
         <field name="LCSC Part #">C15849</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C15849"/>
+      <property name="LCSC Part" value="C15849"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -67,10 +73,12 @@
       <value>0.1u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C14663</field>
         <field name="LCSC Part #">C14663</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C14663"/>
+      <property name="LCSC Part" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -80,10 +88,12 @@
       <value>0.1u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C14663</field>
         <field name="LCSC Part #">C14663</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C14663"/>
+      <property name="LCSC Part" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -93,10 +103,12 @@
       <value>0.1u</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
+        <field name="LCSC Part">C307331</field>
         <field name="LCSC Part #">C307331</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C307331"/>
+      <property name="LCSC Part" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -106,10 +118,12 @@
       <value>0.1u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C14663</field>
         <field name="LCSC Part #">C14663</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C14663"/>
+      <property name="LCSC Part" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -119,10 +133,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C19666</field>
         <field name="LCSC Part #">C19666</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C19666"/>
+      <property name="LCSC Part" value="C19666"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -132,10 +148,12 @@
       <value>10p</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C1634</field>
         <field name="LCSC Part #">C1634</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C1634"/>
+      <property name="LCSC Part" value="C1634"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -145,10 +163,12 @@
       <value>22u</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <fields>
+        <field name="LCSC Part">C12891</field>
         <field name="LCSC Part #">C12891</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C12891"/>
+      <property name="LCSC Part" value="C12891"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -158,10 +178,12 @@
       <value>22u</value>
       <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <fields>
+        <field name="LCSC Part">C12891</field>
         <field name="LCSC Part #">C12891</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C12891"/>
+      <property name="LCSC Part" value="C12891"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -171,10 +193,12 @@
       <value>2.2u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C23630</field>
         <field name="LCSC Part #">C23630</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C23630"/>
+      <property name="LCSC Part" value="C23630"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -184,10 +208,12 @@
       <value>4.7u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
+        <field name="LCSC Part">C1779</field>
         <field name="LCSC Part #">C1779</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC Part #" value="C1779"/>
+      <property name="LCSC Part" value="C1779"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -197,10 +223,12 @@
       <value>D_Schottky_Small</value>
       <footprint>Diode_SMD:D_SMA</footprint>
       <fields>
+        <field name="LCSC Part">C8678</field>
         <field name="LCSC Part #">C8678</field>
       </fields>
       <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
       <property name="LCSC Part #" value="C8678"/>
+      <property name="LCSC Part" value="C8678"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -209,7 +237,11 @@
     <comp ref="D2">
       <value>UDZVFH10B</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -219,10 +251,12 @@
       <value>BLUE</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C72041</field>
         <field name="LCSC Part #">C72041</field>
       </fields>
       <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
       <property name="LCSC Part #" value="C72041"/>
+      <property name="LCSC Part" value="C72041"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -231,7 +265,11 @@
     <comp ref="D4">
       <value>D_TVS</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -240,7 +278,11 @@
     <comp ref="F1">
       <value>Polyfuse_Small</value>
       <footprint>Fuse:Fuse_2016_HandSolder</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -249,7 +291,11 @@
     <comp ref="J1">
       <value>Screw_Terminal_01x02</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -258,7 +304,11 @@
     <comp ref="J2">
       <value>Barrel_Jack_MountingPin</value>
       <footprint>Connector_BarrelJack:BarrelJack_Horizontal</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector" part="Barrel_Jack_MountingPin" description="DC Barrel Jack with a mounting pin"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -267,7 +317,11 @@
     <comp ref="J3">
       <value>USB_B_Micro</value>
       <footprint>Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -276,7 +330,11 @@
     <comp ref="J4">
       <value>Conn_02x03_Odd_Even</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -285,7 +343,11 @@
     <comp ref="J5">
       <value>Conn_02x03_Odd_Even</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -294,7 +356,11 @@
     <comp ref="J6">
       <value>Conn_01x04</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -303,7 +369,11 @@
     <comp ref="J7">
       <value>Conn_01x04</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -312,7 +382,11 @@
     <comp ref="J8">
       <value>Conn_01x02</value>
       <footprint>buck_foot_lib:Solder_wire_PAD</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -321,7 +395,11 @@
     <comp ref="J9">
       <value>Conn_01x02</value>
       <footprint>buck_foot_lib:Solder_wire_PAD</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -331,10 +409,12 @@
       <value>10u</value>
       <footprint>Inductor_SMD:L_Sunlord_MWSA0518_5.4x5.2mm</footprint>
       <fields>
+        <field name="LCSC Part">C408412</field>
         <field name="LCSC Part #">C408412</field>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
       <property name="LCSC Part #" value="C408412"/>
+      <property name="LCSC Part" value="C408412"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -345,10 +425,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
       <fields>
+        <field name="LCSC Part">C15127</field>
         <field name="LCSC Part #">C15127</field>
       </fields>
       <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
       <property name="LCSC Part #" value="C15127"/>
+      <property name="LCSC Part" value="C15127"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -359,10 +441,12 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
       <fields>
+        <field name="LCSC Part">C15127</field>
         <field name="LCSC Part #">C15127</field>
       </fields>
       <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
       <property name="LCSC Part #" value="C15127"/>
+      <property name="LCSC Part" value="C15127"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -372,10 +456,12 @@
       <value>100k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C25803</field>
         <field name="LCSC Part #">C25803</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C25803"/>
+      <property name="LCSC Part" value="C25803"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -385,10 +471,12 @@
       <value>100k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C25803</field>
         <field name="LCSC Part #">C25803</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C25803"/>
+      <property name="LCSC Part" value="C25803"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -398,10 +486,12 @@
       <value>82k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C23254</field>
         <field name="LCSC Part #">C23254</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C23254"/>
+      <property name="LCSC Part" value="C23254"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -411,10 +501,12 @@
       <value>68k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C23231</field>
         <field name="LCSC Part #">C23231</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C23231"/>
+      <property name="LCSC Part" value="C23231"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -424,10 +516,12 @@
       <value>13k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C22797</field>
         <field name="LCSC Part #">C22797</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C22797"/>
+      <property name="LCSC Part" value="C22797"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -437,10 +531,12 @@
       <value>10</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C22859</field>
         <field name="LCSC Part #">C22859</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C22859"/>
+      <property name="LCSC Part" value="C22859"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -450,23 +546,27 @@
       <value>47k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C25819</field>
         <field name="LCSC Part #">C25819</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C25819"/>
+      <property name="LCSC Part" value="C25819"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6a6f11e3-ebb1-4b21-8d4a-25853bcf4a7a</tstamps>
     </comp>
     <comp ref="R8">
-      <value>18</value>
+      <value>10</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC Part #">C22810</field>
+        <field name="LCSC Part">C25077</field>
+        <field name="LCSC Part #">C25077</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value="C22810"/>
+      <property name="LCSC Part #" value="C25077"/>
+      <property name="LCSC Part" value="C25077"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -476,10 +576,12 @@
       <value>5.6k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C23189</field>
         <field name="LCSC Part #">C23189</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C23189"/>
+      <property name="LCSC Part" value="C23189"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -489,10 +591,12 @@
       <value>22k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C31850</field>
         <field name="LCSC Part #">C31850</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C31850"/>
+      <property name="LCSC Part" value="C31850"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -502,10 +606,12 @@
       <value>820</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
+        <field name="LCSC Part">C23253</field>
         <field name="LCSC Part #">C23253</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC Part #" value="C23253"/>
+      <property name="LCSC Part" value="C23253"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -514,7 +620,11 @@
     <comp ref="U1">
       <value>MPQ9842GL</value>
       <footprint>buck_foot_lib:QFN16_3mm_x_4mm</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="buck_lib" part="MPQ9842GL" description=""/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -524,7 +634,11 @@
       <value>LDL1117S33R</value>
       <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
       <datasheet>http://www.diodes.com/datasheets/AP1117.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Regulator_Linear" part="AP1117-33" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -535,10 +649,12 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lm2904-n.pdf</datasheet>
       <fields>
+        <field name="LCSC Part">C7950</field>
         <field name="LCSC Part #">C7950</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="LM358" description="Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"/>
       <property name="LCSC Part #" value="C7950"/>
+      <property name="LCSC Part" value="C7950"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="prova-buck.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -891,25 +1007,25 @@
   </libparts>
   <libraries>
     <library logical="Amplifier_Operational">
-      <uri>E:\Programmoni\kicad\kikaddino\6.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Amplifier_Operational.kicad_sym</uri>
     </library>
     <library logical="Connector">
-      <uri>E:\Programmoni\kicad\kikaddino\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
     </library>
     <library logical="Connector_Generic">
-      <uri>E:\Programmoni\kicad\kikaddino\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>E:\Programmoni\kicad\kikaddino\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
     </library>
     <library logical="Regulator_Linear">
-      <uri>E:\Programmoni\kicad\kikaddino\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
     </library>
     <library logical="Transistor_FET">
-      <uri>E:\Programmoni\kicad\kikaddino\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Transistor_FET.kicad_sym</uri>
     </library>
     <library logical="buck_lib">
-      <uri>C:\Users\giovanni\Documents\Kicad_Projects\prova-buck/buck_lib.kicad_sym</uri>
+      <uri>/home/giovanni/Documents/Projects/Buck/buck-kicad/buck_lib.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
